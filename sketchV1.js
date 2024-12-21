@@ -1,3 +1,8 @@
+// Trailer Parking Game - VERSION 1
+// Author : Ruben Rehal
+// Dec 19, 2025
+
+
 let buttonClicked = false; 
 let trailer1, trailer2;
 let rodLength;
