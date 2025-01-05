@@ -46,5 +46,5 @@ An interactive web-based game where players maneuver a truck and its trailers in
 
 ## 🚀 Getting Started
 1. Play this Game! :
-   [https://editor.p5js.org/](https://rubenreh.github.io/Trailer-Parking-Game/)
+   https://rubenreh.github.io/Trailer-Parking-Game/
    
